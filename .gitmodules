@@ -1,0 +1,456 @@
+[submodule "3d_armor"]
+	path = 3d_armor
+	url = https://sys4.fr/gogs/NotreAmiLeCube/3d_armor.git
+	branch = mff
+[submodule "3d_armor_classes"]
+	path = 3d_armor_classes
+	url = https://sys4.fr/gogs/NotreAmiLeCube/3d_armor_classes.git
+	branch = mff
+[submodule "action_timers"]
+	path = action_timers
+	url = https://sys4.fr/gogs/NotreAmiLeCube/action_timers.git
+	branch = master
+[submodule "ambience"]
+	path = ambience
+	url = https://sys4.fr/gogs/NotreAmiLeCube/ambience.git
+	branch = mff
+[submodule "areas"]
+	path = areas
+	url = https://sys4.fr/gogs/NotreAmiLeCube/areas.git
+	branch = mff
+[submodule "arrow_signs"]
+	path = arrow_signs
+	url = https://sys4.fr/gogs/NotreAmiLeCube/arrow_signs.git
+	branch = mff
+[submodule "automappercolors"]
+	path = automappercolors
+	url = https://sys4.fr/gogs/NotreAmiLeCube/automappercolors.git
+	branch = master
+[submodule "biome_lib"]
+	path = biome_lib
+	url = https://sys4.fr/gogs/NotreAmiLeCube/biome_lib.git
+	branch = mff
+[submodule "bobblocks"]
+	path = bobblocks
+	url = https://sys4.fr/gogs/NotreAmiLeCube/bobblocks.git
+	branch = mff
+[submodule "bones"]
+	path = bones
+	url = https://sys4.fr/gogs/NotreAmiLeCube/bones.git
+	branch = master
+[submodule "broomstick"]
+	path = broomstick
+	url = https://sys4.fr/gogs/NotreAmiLeCube/broomstick.git
+	branch = master
+[submodule "builtin_falling"]
+	path = builtin_falling
+	url = https://sys4.fr/gogs/NotreAmiLeCube/builtin_falling.git
+	branch = master
+[submodule "builtin_item"]
+	path = builtin_item
+	url = https://sys4.fr/gogs/NotreAmiLeCube/builtin_item.git
+	branch = mff
+[submodule "chesttools"]
+	path = chesttools
+	url = https://sys4.fr/gogs/NotreAmiLeCube/chesttools.git
+	branch = mff
+[submodule "christmas_craft"]
+	path = christmas_craft
+	url = https://sys4.fr/gogs/NotreAmiLeCube/christmas_craft.git
+	branch = mff
+[submodule "coloredwood"]
+	path = coloredwood
+	url = https://sys4.fr/gogs/NotreAmiLeCube/coloredwood.git
+	branch = mff
+[submodule "colormachine"]
+	path = colormachine
+	url = https://sys4.fr/gogs/NotreAmiLeCube/colormachine.git
+	branch = mff
+[submodule "colouredstonebricks"]
+	path = colouredstonebricks
+	url = https://sys4.fr/gogs/NotreAmiLeCube/colouredstonebricks.git
+	branch = mff
+[submodule "columnia"]
+	path = columnia
+	url = https://sys4.fr/gogs/NotreAmiLeCube/columnia.git
+	branch = mff
+[submodule "connected_chests"]
+	path = connected_chests
+	url = https://sys4.fr/gogs/NotreAmiLeCube/connected_chests.git
+	branch = mff
+[submodule "cozy"]
+	path = cozy
+	url = https://sys4.fr/gogs/NotreAmiLeCube/cozy.git
+	branch = mff
+[submodule "darkage"]
+	path = darkage
+	url = https://sys4.fr/gogs/NotreAmiLeCube/darkage.git
+	branch = mff
+[submodule "death_messages"]
+	path = death_messages
+	url = https://sys4.fr/gogs/NotreAmiLeCube/death_messages.git
+	branch = mff
+[submodule "email"]
+	path = email
+	url = https://sys4.fr/gogs/NotreAmiLeCube/email.git
+	branch = mff
+[submodule "eventobjects"]
+	path = eventobjects
+	url = https://sys4.fr/gogs/NotreAmiLeCube/eventobjects.git
+	branch = master
+[submodule "factions"]
+	path = factions
+	url = https://sys4.fr/gogs/NotreAmiLeCube/factions.git
+	branch = mff
+[submodule "fail"]
+	path = fail
+	url = https://sys4.fr/gogs/NotreAmiLeCube/fail.git
+	branch = master
+[submodule "fences"]
+	path = fences
+	url = https://sys4.fr/gogs/NotreAmiLeCube/fences.git
+	branch = mff
+[submodule "fishing"]
+	path = fishing
+	url = https://sys4.fr/gogs/NotreAmiLeCube/fishing.git
+	branch = master
+[submodule "food"]
+	path = food
+	url = https://sys4.fr/gogs/NotreAmiLeCube/food.git
+	branch = mff
+[submodule "framedglass"]
+	path = framedglass
+	url = https://sys4.fr/gogs/NotreAmiLeCube/framedglass.git
+	branch = master
+[submodule "gauges"]
+	path = gauges
+	url = https://sys4.fr/gogs/NotreAmiLeCube/gauges.git
+	branch = master
+[submodule "glow"]
+	path = glow
+	url = https://sys4.fr/gogs/NotreAmiLeCube/glow.git
+	branch = mff
+[submodule "hbarmor"]
+	path = hbarmor
+	url = https://sys4.fr/gogs/NotreAmiLeCube/hbarmor.git
+	branch = mff
+[submodule "hbhunger"]
+	path = hbhunger
+	url = https://sys4.fr/gogs/NotreAmiLeCube/hbhunger.git
+	branch = mff
+[submodule "homedecor_modpack"]
+	path = homedecor_modpack
+	url = https://sys4.fr/gogs/NotreAmiLeCube/homedecor_modpack.git
+	branch = mff
+[submodule "hudbars"]
+	path = hudbars
+	url = https://sys4.fr/gogs/NotreAmiLeCube/hudbars.git
+	branch = mff
+[submodule "interact"]
+	path = interact
+	url = https://sys4.fr/gogs/NotreAmiLeCube/interact.git
+	branch = mff
+[submodule "inventorycheck"]
+	path = inventorycheck
+	url = https://sys4.fr/gogs/NotreAmiLeCube/inventorycheck.git
+	branch = mff
+[submodule "inventory_icon"]
+	path = inventory_icon
+	url = https://sys4.fr/gogs/NotreAmiLeCube/inventory_icon.git
+	branch = mff
+[submodule "invtweak"]
+	path = invtweak
+	url = https://sys4.fr/gogs/NotreAmiLeCube/invtweak.git
+	branch = mff
+[submodule "irc_modpack"]
+	path = irc_modpack
+	url = https://sys4.fr/gogs/NotreAmiLeCube/irc_modpack.git
+	branch = master
+[submodule "item_drop"]
+	path = item_drop
+	url = https://sys4.fr/gogs/NotreAmiLeCube/item_drop.git
+	branch = mff
+[submodule "jumping"]
+	path = jumping
+	url = https://sys4.fr/gogs/NotreAmiLeCube/jumping.git
+	branch = mff
+[submodule "lantern"]
+	path = lantern
+	url = https://sys4.fr/gogs/NotreAmiLeCube/lantern.git
+	branch = master
+[submodule "lavatemple"]
+	path = lavatemple
+	url = https://sys4.fr/gogs/NotreAmiLeCube/lavatemple.git
+	branch = master
+[submodule "locked_sign"]
+	path = locked_sign
+	url = https://sys4.fr/gogs/NotreAmiLeCube/locked_sign.git
+	branch = mff
+[submodule "mana"]
+	path = mana
+	url = https://sys4.fr/gogs/NotreAmiLeCube/mana.git
+	branch = mff
+[submodule "mapfix"]
+	path = mapfix
+	url = https://sys4.fr/gogs/NotreAmiLeCube/mapfix.git
+	branch = master
+[submodule "maptools"]
+	path = maptools
+	url = https://sys4.fr/gogs/NotreAmiLeCube/maptools.git
+	branch = mff
+[submodule "markers"]
+	path = markers
+	url = https://sys4.fr/gogs/NotreAmiLeCube/markers.git
+	branch = mff
+[submodule "maze"]
+	path = maze
+	url = https://sys4.fr/gogs/NotreAmiLeCube/maze.git
+	branch = master
+[submodule "meru"]
+	path = meru
+	url = https://sys4.fr/gogs/NotreAmiLeCube/meru.git
+	branch = mff
+[submodule "mesecons"]
+	path = mesecons
+	url = https://sys4.fr/gogs/NotreAmiLeCube/mesecons.git
+	branch = mff
+[submodule "metatools"]
+	path = metatools
+	url = https://sys4.fr/gogs/NotreAmiLeCube/metatools.git
+	branch = mff
+[submodule "mff"]
+	path = mff
+	url = https://sys4.fr/gogs/NotreAmiLeCube/mff.git
+	branch = mff
+[submodule "minercantile"]
+	path = minercantile
+	url = https://sys4.fr/gogs/NotreAmiLeCube/minercantile.git
+	branch = master
+[submodule "_misc"]
+	path = _misc
+	url = https://sys4.fr/gogs/NotreAmiLeCube/_misc.git
+	branch = master
+[submodule "mobs"]
+	path = mobs
+	url = https://sys4.fr/gogs/NotreAmiLeCube/mobs.git
+	branch = mff
+[submodule "money"]
+	path = money
+	url = https://sys4.fr/gogs/NotreAmiLeCube/money.git
+	branch = master
+[submodule "moreblocks"]
+	path = moreblocks
+	url = https://sys4.fr/gogs/NotreAmiLeCube/moreblocks.git
+	branch = mff
+[submodule "more_chests"]
+	path = more_chests
+	url = https://sys4.fr/gogs/NotreAmiLeCube/more_chests.git
+	branch = mff
+[submodule "moretrees"]
+	path = moretrees
+	url = https://sys4.fr/gogs/NotreAmiLeCube/moretrees.git
+	branch = mff
+[submodule "multitest"]
+	path = multitest
+	url = https://sys4.fr/gogs/NotreAmiLeCube/multitest.git
+	branch = mff
+[submodule "music"]
+	path = music
+	url = https://sys4.fr/gogs/NotreAmiLeCube/music.git
+	branch = master
+[submodule "mysql_auth"]
+	path = mysql_auth
+	url = https://sys4.fr/gogs/NotreAmiLeCube/mysql_auth.git
+	branch = master
+[submodule "mysql_base"]
+	path = mysql_base
+	url = https://sys4.fr/gogs/NotreAmiLeCube/mysql_base.git
+	branch = master
+[submodule "name_restrictions"]
+	path = name_restrictions
+	url = https://sys4.fr/gogs/NotreAmiLeCube/name_restrictions.git
+	branch = master
+[submodule "names_per_ip"]
+	path = names_per_ip
+	url = https://sys4.fr/gogs/NotreAmiLeCube/names_per_ip.git
+	branch = master
+[submodule "nether"]
+	path = nether
+	url = https://sys4.fr/gogs/NotreAmiLeCube/nether.git
+	branch = mff
+[submodule "news"]
+	path = news
+	url = https://sys4.fr/gogs/NotreAmiLeCube/news.git
+	branch = master
+[submodule "notice"]
+	path = notice
+	url = https://sys4.fr/gogs/NotreAmiLeCube/notice.git
+	branch = master
+[submodule "paintings"]
+	path = paintings
+	url = https://sys4.fr/gogs/NotreAmiLeCube/paintings.git
+	branch = master
+[submodule "pclasses"]
+	path = pclasses
+	url = https://sys4.fr/gogs/NotreAmiLeCube/pclasses.git
+	branch = master
+[submodule "peace_areas"]
+	path = peace_areas
+	url = https://sys4.fr/gogs/NotreAmiLeCube/peace_areas.git
+	branch = master
+[submodule "pipeworks"]
+	path = pipeworks
+	url = https://sys4.fr/gogs/NotreAmiLeCube/pipeworks.git
+	branch = mff
+[submodule "plantlife_modpack"]
+	path = plantlife_modpack
+	url = https://sys4.fr/gogs/NotreAmiLeCube/plantlife_modpack.git
+	branch = mff
+[submodule "player_inactive"]
+	path = player_inactive
+	url = https://sys4.fr/gogs/NotreAmiLeCube/player_inactive.git
+	branch = master
+[submodule "profnsched"]
+	path = profnsched
+	url = https://sys4.fr/gogs/NotreAmiLeCube/profnsched.git
+	branch = master
+[submodule "quartz"]
+	path = quartz
+	url = https://sys4.fr/gogs/NotreAmiLeCube/quartz.git
+	branch = mff
+[submodule "quests"]
+	path = quests
+	url = https://sys4.fr/gogs/NotreAmiLeCube/quests.git
+	branch = master
+[submodule "random_messages"]
+	path = random_messages
+	url = https://sys4.fr/gogs/NotreAmiLeCube/random_messages.git
+	branch = mff
+[submodule "report"]
+	path = report
+	url = https://sys4.fr/gogs/NotreAmiLeCube/report.git
+	branch = mff
+[submodule "returnmirror"]
+	path = returnmirror
+	url = https://sys4.fr/gogs/NotreAmiLeCube/returnmirror.git
+	branch = mff
+[submodule "riesenpilz"]
+	path = riesenpilz
+	url = https://sys4.fr/gogs/NotreAmiLeCube/riesenpilz.git
+	branch = mff
+[submodule "runes"]
+	path = runes
+	url = https://sys4.fr/gogs/NotreAmiLeCube/runes.git
+	branch = master
+[submodule "sea"]
+	path = sea
+	url = https://sys4.fr/gogs/NotreAmiLeCube/sea.git
+	branch = mff
+[submodule "serverguide"]
+	path = serverguide
+	url = https://sys4.fr/gogs/NotreAmiLeCube/serverguide.git
+	branch = mff
+[submodule "shutdown"]
+	path = shutdown
+	url = https://sys4.fr/gogs/NotreAmiLeCube/shutdown.git
+	branch = master
+[submodule "signs_lib"]
+	path = signs_lib
+	url = https://sys4.fr/gogs/NotreAmiLeCube/signs_lib.git
+	branch = mff
+[submodule "snow"]
+	path = snow
+	url = https://sys4.fr/gogs/NotreAmiLeCube/snow.git
+	branch = mff
+[submodule "soccer"]
+	path = soccer
+	url = https://sys4.fr/gogs/NotreAmiLeCube/soccer.git
+	branch = mff
+[submodule "soundset"]
+	path = soundset
+	url = https://sys4.fr/gogs/NotreAmiLeCube/soundset.git
+	branch = master
+[submodule "spears"]
+	path = spears
+	url = https://sys4.fr/gogs/NotreAmiLeCube/spears.git
+	branch = mff
+[submodule "sponge"]
+	path = sponge
+	url = https://sys4.fr/gogs/NotreAmiLeCube/sponge.git
+	branch = mff
+[submodule "sprint"]
+	path = sprint
+	url = https://sys4.fr/gogs/NotreAmiLeCube/sprint.git
+	branch = master
+[submodule "stacktraceplus"]
+	path = stacktraceplus
+	url = https://sys4.fr/gogs/NotreAmiLeCube/stacktraceplus.git
+	branch = master
+[submodule "stained_glass"]
+	path = stained_glass
+	url = https://sys4.fr/gogs/NotreAmiLeCube/stained_glass.git
+	branch = mff
+[submodule "throwing"]
+	path = throwing
+	url = https://sys4.fr/gogs/NotreAmiLeCube/throwing.git
+	branch = mff
+[submodule "time_regulation"]
+	path = time_regulation
+	url = https://sys4.fr/gogs/NotreAmiLeCube/time_regulation.git
+	branch = master
+[submodule "track_players"]
+	path = track_players
+	url = https://sys4.fr/gogs/NotreAmiLeCube/track_players.git
+	branch = master
+[submodule "treasurer"]
+	path = treasurer
+	url = https://sys4.fr/gogs/NotreAmiLeCube/treasurer.git
+	branch = mff
+[submodule "trm_pyramids"]
+	path = trm_pyramids
+	url = https://sys4.fr/gogs/NotreAmiLeCube/trm_pyramids.git
+	branch = master
+[submodule "tsm_pyramids"]
+	path = tsm_pyramids
+	url = https://sys4.fr/gogs/NotreAmiLeCube/tsm_pyramids.git
+	branch = mff
+[submodule "unifieddyes"]
+	path = unifieddyes
+	url = https://sys4.fr/gogs/NotreAmiLeCube/unifieddyes.git
+	branch = mff
+[submodule "unified_inventory"]
+	path = unified_inventory
+	url = https://sys4.fr/gogs/NotreAmiLeCube/unified_inventory.git
+	branch = mff
+[submodule "u_skins"]
+	path = u_skins
+	url = https://sys4.fr/gogs/NotreAmiLeCube/u_skins.git
+	branch = mff
+[submodule "vector_extras"]
+	path = vector_extras
+	url = https://sys4.fr/gogs/NotreAmiLeCube/vector_extras.git
+	branch = mff
+[submodule "warps"]
+	path = warps
+	url = https://sys4.fr/gogs/NotreAmiLeCube/warps.git
+	branch = mff
+[submodule "watershed"]
+	path = watershed
+	url = https://sys4.fr/gogs/NotreAmiLeCube/watershed.git
+	branch = mff
+[submodule "whoison"]
+	path = whoison
+	url = https://sys4.fr/gogs/NotreAmiLeCube/whoison.git
+	branch = master
+[submodule "worldedge"]
+	path = worldedge
+	url = https://sys4.fr/gogs/NotreAmiLeCube/worldedge.git
+	branch = mff
+[submodule "WorldEdit"]
+	path = WorldEdit
+	url = https://sys4.fr/gogs/NotreAmiLeCube/WorldEdit.git
+	branch = mff
+[submodule "xban2"]
+	path = xban2
+	url = https://sys4.fr/gogs/NotreAmiLeCube/xban2.git
+	branch = master
